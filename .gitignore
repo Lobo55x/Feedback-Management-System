@@ -1,0 +1,38 @@
+# Node
+node_modules/
+.next/
+dist/
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Build
+build/
+coverage/
+
+# Docker
+*.local.yml
+docker-compose.override.yml
+
+# Prisma
+prisma/dev.db
+prisma/migrations/
+
+# Misc
+.idea/
+*.swp
